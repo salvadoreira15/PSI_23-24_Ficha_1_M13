@@ -24,10 +24,10 @@ Considera que todas as instruções ocorrem fora das classes presentes no diagra
 
 ![UML](uml.png)
 
-* 'Animal animal = new Cao();'
-* 'Gato gato = new Cao();'
-* 'Gato gato = new Animal();'
-* a.Ladrar(); // 'a' é uma instância de Animal
-* c.Comer(); // 'c' é uma instância de Cao
-* float x = g.Energia; // 'g' é uma instância de Gato
-* Console.WriteLine(g.Nome); // 'g' é uma instância de Gato
+* `Animal animal = new Cao();`
+* `Gato gato = new Cao();`
+* `Gato gato = new Animal();`
+* `a.Ladrar(); // 'a' é uma instância de Animal`
+* `c.Comer(); // 'c' é uma instância de Cao`
+* `float x = g.Energia; // 'g' é uma instância de Gato`
+* `Console.WriteLine(g.Nome); // 'g' é uma instância de Gato`
