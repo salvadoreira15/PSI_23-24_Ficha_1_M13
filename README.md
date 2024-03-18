@@ -22,7 +22,7 @@ No teu repositório, acede a "Settings -> Collaborators" e adiciona o utilizador
 ## Exercício 2 - Considera o diagrama UML em baixo e indica, justificando, quais das seguintes instruções são válidas e quais são inválidas. (14v)
 Considera que todas as instruções ocorrem fora das classes presentes no diagrama (por exemplo, numa classe Program).
 
-!(UML)[uml.png]
+![UML](uml.png)
 
 * 'Animal animal = new Cao();'
 * 'Gato gato = new Cao();'
